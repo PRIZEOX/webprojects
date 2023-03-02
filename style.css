@@ -1,0 +1,88 @@
+#current{
+    color: #CDAA7D;
+    padding-bottom: 2px;
+    border-bottom: solid 1px #CDAA7D;
+}
+
+body{
+    background-image: url("assets/img/bgc.png");
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-color: #111111;
+    font-family: 'EB Garamond', serif;
+    margin: 0 auto;
+    color: white;
+    font-size: 18px;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+.header-texts{
+    text-align: center;
+}
+
+
+p{margin: 0 auto;}
+
+.container{
+    width:67.5%;
+    margin-left: 16.5%;
+    margin-right: 16.5%;
+}
+
+.hero-text{
+    margin-top: 260px;
+    font-size: 72px;
+
+}
+
+.navbar{
+    display: flex;
+    align-items: center;
+    font-size: 18px;
+    margin-top: 30px;
+    border-bottom: 1px solid #fff;
+    padding-bottom: 30px;
+}
+
+.under-hero{
+    gap: 20px;
+    width: 168px;
+    margin-top: 290px;
+    display: flex;
+    align-items: center;
+    margin-left: 45%;
+    margin-right: 45%;
+    margin-bottom: 220px;
+}
+
+.nav-list{
+    margin-left: 120px;
+    gap: 80px;
+}
+
+.logo{
+    margin-left: 120px;
+    margin-right: 120px;
+}
+
+.services{
+    font-size: 30px;
+    margin-top: 74px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-column-gap: 24px;
+    grid-row-gap: 80px;
+}
+
+.brend{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin-left: 119px;
+    margin-right: 98px;
+    margin-top: 162px;
+}
+
+
+
